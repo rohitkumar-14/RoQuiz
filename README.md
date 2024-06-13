@@ -29,6 +29,7 @@ Copy code
 npm run dev
 Open http://localhost:5173 to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
+For Admin Panel: http://localhost:5173/adminpanel
 
 # License
 This project is licensed under the MIT License. See the LICENSE file for more information.
